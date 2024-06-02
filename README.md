@@ -38,7 +38,7 @@ Step 6: Write style.css file.
 Step 7: Write script.js.
 
 
-![image](https://github.com/navdeepkaurbhangu/mtm6302-console-controller-navdeepkaurbhangu/assets/133885471/3797451a-435a-4807-b680-37711c4d1373)
+![image](https://github.com/navdeepkaurbhangu/mtm6302-console-controller-navdeepkaurbhangu/assets/133885471/eb111b84-f808-47b8-b3d2-d82f5e6bca87)
 
 Step 8: Output
 
