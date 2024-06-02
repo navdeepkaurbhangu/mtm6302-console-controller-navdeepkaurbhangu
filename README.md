@@ -35,16 +35,14 @@ Step 6: Write style.css file.
 ![image](https://github.com/navdeepkaurbhangu/mtm6302-console-controller-navdeepkaurbhangu/assets/133885471/a7909bd3-860d-4565-8e0f-0c2f3777d234)
 
 
-Step 7: Write script.js.
+Step 7: Write script.js file.
 
 
 ![image](https://github.com/navdeepkaurbhangu/mtm6302-console-controller-navdeepkaurbhangu/assets/133885471/eb111b84-f808-47b8-b3d2-d82f5e6bca87)
 
-Step 8: Output
 
 
-
-Step 9: Git push
+Step 9: Git push.
 
 ![image](https://github.com/navdeepkaurbhangu/mtm6302-console-controller-navdeepkaurbhangu/assets/133885471/73ef3ae7-dc5f-43e8-9338-4de6ddb3f4f4)
 
