@@ -46,4 +46,7 @@ Step 9: Git push.
 
 ![image](https://github.com/navdeepkaurbhangu/mtm6302-console-controller-navdeepkaurbhangu/assets/133885471/73ef3ae7-dc5f-43e8-9338-4de6ddb3f4f4)
 
+Step:10 Output
+
+![image](https://github.com/navdeepkaurbhangu/mtm6302-console-controller-navdeepkaurbhangu/assets/133885471/efde23b3-0d8a-4bd2-a4f6-2f8394ea433a)
 
